@@ -42,79 +42,79 @@
     "title": "Technology"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=none;html=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;endFill=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"100\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=none;html=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;endFill=0;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-2.2737367544323206e-13\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"99.99999999999977\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 100,
-    "h": 0.8333333333333334,
+    "h": 0.9523809523809523,
     "aspect": "fixed",
     "title": "Association"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;fillColor=#000000;fontFamily=Verdana;fontSize=12;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"100\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"1\" style=\"edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;\" connectable=\"0\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"-1\" relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"*\" style=\"edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;\" connectable=\"0\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1\" relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;fillColor=#000000;fontFamily=Verdana;fontSize=12;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"100\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"1\" style=\"edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;\" connectable=\"0\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"-1\" relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"*\" style=\"edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;\" connectable=\"0\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1\" relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 100,
-    "h": 0.8333333333333334,
+    "h": 0.9523809523809523,
     "aspect": "fixed",
     "title": "Association (labeled)"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=block;endSize=16;endFill=0;html=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"160\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"120\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=block;endSize=16;endFill=0;html=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"160\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"120\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
-    "h": 0.8333333333333334,
+    "h": 0.9523809523809523,
     "aspect": "fixed",
     "title": "Generalization"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=block;endSize=16;endFill=0;html=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;dashed=1;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"160\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"120\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=block;endSize=16;endFill=0;html=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;dashed=1;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"160\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"120\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
-    "h": 0.8333333333333334,
+    "h": 0.9523809523809523,
     "aspect": "fixed",
     "title": "Realization"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"1\" style=\"endArrow=none;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;dashed=0;fillColor=#000000;fontFamily=Verdana;fontSize=12;endFill=0;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-1\" y=\"3\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"110\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 110,
-    "h": 1,
+    "h": 0.9523809523809523,
     "aspect": "fixed",
     "title": "Composition"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"1\" style=\"endArrow=none;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;dashed=0;fillColor=#000000;fontFamily=Verdana;fontSize=12;endFill=0;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-1\" y=\"3\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"110\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 110,
-    "h": 1,
+    "h": 0.9523809523809523,
     "aspect": "fixed",
     "title": "Aggregation"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=open;html=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;endFill=0;dashed=1;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"100\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;lt;span style=&amp;quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&amp;quot;&amp;gt;«refine»&amp;lt;/span&amp;gt;\" style=\"edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=Verdana;\" connectable=\"0\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=open;html=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;endFill=0;dashed=1;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-2.2737367544323206e-13\" y=\"1.1368683772161603e-13\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"99.99999999999977\" y=\"1.1368683772161603e-13\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;lt;span style=&amp;quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&amp;quot;&amp;gt;«refine»&amp;lt;/span&amp;gt;\" style=\"edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=Verdana;\" connectable=\"0\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 100,
-    "h": 0.8333333333333334,
+    "h": 0.9523809523809523,
     "aspect": "fixed",
     "title": "Refinement"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=open;html=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;endFill=0;dashed=1;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"100\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;lt;span style=&amp;quot;font-size: 12px; background-color: rgb(248, 249, 250);&amp;quot;&amp;gt;«use»&amp;lt;/span&amp;gt;\" style=\"edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=Verdana;\" connectable=\"0\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=open;html=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;endFill=0;dashed=1;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"100\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;lt;span style=&amp;quot;font-size: 12px; background-color: rgb(248, 249, 250);&amp;quot;&amp;gt;«use»&amp;lt;/span&amp;gt;\" style=\"edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=Verdana;\" connectable=\"0\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 100,
-    "h": 0.8333333333333334,
+    "h": 0.9523809523809523,
     "aspect": "fixed",
     "title": "Usage"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=open;html=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;endFill=0;dashed=1;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"165\" y=\"0.3100000000001728\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;lt;span style=&amp;quot;font-size: 12px; background-color: rgb(248, 249, 250);&amp;quot;&amp;gt;&amp;quot;&amp;amp;lt;custom relation&amp;amp;gt;&amp;quot;&amp;lt;/span&amp;gt;\" style=\"edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=Verdana;\" connectable=\"0\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-2.76\" y=\"0.8399999999999995\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=open;html=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;endFill=0;dashed=1;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"165\" y=\"0.3100000000004002\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;lt;span style=&amp;quot;font-size: 12px; background-color: rgb(248, 249, 250);&amp;quot;&amp;gt;&amp;quot;&amp;amp;lt;custom relation&amp;amp;gt;&amp;quot;&amp;lt;/span&amp;gt;\" style=\"edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=Verdana;\" connectable=\"0\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-2.76\" y=\"0.8399999999999995\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 165,
-    "h": 0.8333333333333334,
+    "h": 0.9523809523809523,
     "aspect": "fixed",
     "title": "custom"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Some note\" style=\"shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Verdana;fontSize=12;align=left;verticalAlign=top;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"160\" height=\"160\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Some note\" style=\"shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Verdana;fontSize=12;align=left;verticalAlign=top;spacingLeft=5;spacingRight=5;spacingBottom=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"160\" height=\"160\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 160,
     "h": 160,
     "aspect": "fixed",
     "title": "Note"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=none;html=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;endFill=0;dashed=1;dashPattern=1 1;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"100\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=none;html=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;endFill=0;dashed=1;dashPattern=1 1;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"100\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 100,
-    "h": 0.8333333333333334,
+    "h": 0.9523809523809523,
     "aspect": "fixed",
     "title": "Note link"
   }
